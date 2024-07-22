@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuan Yao / Site Title"
+title                    : "Yuan Yao"
 title_separator          : "-"
 name                     : &name "Yuan Yao (姚远)"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Remote-Yao.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Yuan Yao (姚远)"
   pronouns         : # example: "she/her"  
   bio              : "postgraduate, Computer Science, China Three Gorges University"
   location         : "Yi Chang, China"

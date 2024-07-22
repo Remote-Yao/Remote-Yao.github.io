@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Academic Pages"
 author_profile: true
 redirect_from:
-  - /resume
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
