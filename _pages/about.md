@@ -66,4 +66,3 @@ Skills
 * Knowledge: proficient in deep learning and algorithms; competent to software and system development; Understand Linux, Windows.
 * Tool: competent in Latex, Git.
 
-<!--  

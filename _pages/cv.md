@@ -64,6 +64,4 @@ Skills
 
 * Language: proficient in C, Python and proficiency in deep learning frameworks such as pytorch.
 * Knowledge: proficient in deep learning and algorithms; competent to software and system development; Understand Linux, Windows.
-* Tool: competent in Latex, Git.
-
-<!--  
+* Tool: competent in Git.
